@@ -5,7 +5,7 @@ Este proyecto presenta un Header de un espacio de trabajo de coworking preparado
 ---
 
 <div align="center">
-  <img src="coworking-space.png" alt="Header de coworking space" width="55%"/>
+  <img src="coworking-space.png" alt="Header de coworking space" width="100%"/>
 </div>
 
 
